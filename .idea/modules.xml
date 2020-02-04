@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shifen.iml" filepath="$PROJECT_DIR$/shifen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shifen-module-apis/shifen-module-apis.iml" filepath="$PROJECT_DIR$/shifen-module-apis/shifen-module-apis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shifen-module-common/shifen-module-common.iml" filepath="$PROJECT_DIR$/shifen-module-common/shifen-module-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shifen-module-model/shifen-module-model.iml" filepath="$PROJECT_DIR$/shifen-module-model/shifen-module-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shifen-module-utils/shifen-module-utils.iml" filepath="$PROJECT_DIR$/shifen-module-utils/shifen-module-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shifen-servcie-user/shifen-servcie-user.iml" filepath="$PROJECT_DIR$/shifen-servcie-user/shifen-servcie-user.iml" />
+    </modules>
+  </component>
+</project>

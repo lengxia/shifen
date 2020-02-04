@@ -1,0 +1,99 @@
+{
+  "groups": [
+    {
+      "name": "fast.dfs",
+      "type": "com.jubeis.common.fastdfs.FastDfsConfig",
+      "sourceType": "com.jubeis.common.fastdfs.FastDfsConfig"
+    },
+    {
+      "name": "mariadb.core",
+      "type": "com.jubeis.common.mariadb.core.MysqlCoreConfig",
+      "sourceType": "com.jubeis.common.mariadb.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mariadb.core",
+      "type": "com.jubeis.common.mariadb.core.TransactionConfig",
+      "sourceType": "com.jubeis.common.mariadb.core.TransactionConfig"
+    },
+    {
+      "name": "spring.elasticsearch.jest",
+      "type": "com.jubeis.common.elasticsearch.ElasticsearchConfig",
+      "sourceType": "com.jubeis.common.elasticsearch.ElasticsearchConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "fast.dfs.connect-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jubeis.common.fastdfs.FastDfsConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "fast.dfs.so-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jubeis.common.fastdfs.FastDfsConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "fast.dfs.tracker-server",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.fastdfs.FastDfsConfig"
+    },
+    {
+      "name": "mariadb.core.aliases-package",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.mariadb.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mariadb.core.enums-package",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.mariadb.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mariadb.core.jdbc-driver",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.mariadb.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mariadb.core.jdbc-password",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.mariadb.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mariadb.core.jdbc-url",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.mariadb.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mariadb.core.jdbc-user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.mariadb.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mariadb.core.root-mapper",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.mariadb.core.MysqlCoreConfig"
+    },
+    {
+      "name": "mariadb.core.tx-scan-package",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.mariadb.core.TransactionConfig"
+    },
+    {
+      "name": "spring.elasticsearch.jest.connection-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jubeis.common.elasticsearch.ElasticsearchConfig"
+    },
+    {
+      "name": "spring.elasticsearch.jest.read-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jubeis.common.elasticsearch.ElasticsearchConfig"
+    },
+    {
+      "name": "spring.elasticsearch.jest.url",
+      "type": "java.lang.String",
+      "sourceType": "com.jubeis.common.elasticsearch.ElasticsearchConfig"
+    }
+  ],
+  "hints": []
+}

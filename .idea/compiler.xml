@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shifen-servcie-user" />
+        <module name="shifen-module-utils" />
+        <module name="shifen-module-common" />
+        <module name="shifen-module-model" />
+        <module name="shifen-module-apis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shifen" target="1.8" />
+      <module name="shifen-module" target="1.8" />
+      <module name="shifen-module-apis" target="1.8" />
+      <module name="shifen-module-common" target="1.8" />
+      <module name="shifen-module-model" target="1.8" />
+      <module name="shifen-module-utils" target="1.8" />
+      <module name="shifen-servcie-user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shifen" options="" />
+      <module name="shifen-module" options="-parameters" />
+      <module name="shifen-module-apis" options="-parameters" />
+      <module name="shifen-module-common" options="-parameters" />
+      <module name="shifen-module-model" options="-parameters" />
+      <module name="shifen-module-utils" options="-parameters" />
+      <module name="shifen-servcie-user" options="-parameters" />
+    </option>
+  </component>
+</project>
