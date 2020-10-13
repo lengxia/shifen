@@ -48,7 +48,7 @@
         <kafka.client.version>2.0.1</kafka.client.version>
         <elasticsearch.version>7.2.0</elasticsearch.version>
         <searchbox.version>6.3.1</searchbox.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <spring.boot.admin.version>2.1.6</spring.boot.admin.version>
         <reflections.version>0.9.11</reflections.version>
         <fastdfs.version>0.2.0</fastdfs.version>
