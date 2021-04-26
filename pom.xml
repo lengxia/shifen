@@ -39,7 +39,7 @@
         <mybatis.plus.version>3.3.0</mybatis.plus.version>
         <mariadb.java.client>2.4.4</mariadb.java.client>
         <lang3.version>3.9</lang3.version>
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <commons.codec.version>1.12</commons.codec.version>
         <jsoup.version>1.10.2</jsoup.version>
         <jwt.version>0.9.1</jwt.version>
