@@ -41,7 +41,7 @@
         <lang3.version>3.9</lang3.version>
         <commons.io.version>2.6</commons.io.version>
         <commons.codec.version>1.12</commons.codec.version>
-        <jsoup.version>1.10.2</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
         <jwt.version>0.9.1</jwt.version>
         <spring.cloud.version>Greenwich.RELEASE</spring.cloud.version>
         <kafka.version>2.2.7.RELEASE</kafka.version>
