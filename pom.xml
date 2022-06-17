@@ -34,7 +34,7 @@
         <!-- 依赖包版本管理 -->
         <lombok.version>1.18.8</lombok.version>
         <spring.boot.version>2.2.4.RELEASE</spring.boot.version>
-        <fastjson.version>1.2.58</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <fastjson.dataformat.version>2.9.9</fastjson.dataformat.version>
         <mybatis.plus.version>3.3.0</mybatis.plus.version>
         <mariadb.java.client>2.4.4</mariadb.java.client>
